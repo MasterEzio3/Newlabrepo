@@ -1,0 +1,3 @@
+created sample3 file
+
+Added new feature for branch1
